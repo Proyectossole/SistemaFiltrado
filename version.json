@@ -1,0 +1,5 @@
+{
+   "type": "esp32-fota-http",
+   "version": "1.0",
+   "url": "https://raw.githubusercontent.com/pruebaproyecto/prueba/main/fw.bin"
+}
