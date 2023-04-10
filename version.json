@@ -1,5 +1,5 @@
 {
-   "type": "esp32SfiltroV2",
+   "type": "esp32Sfiltro",
    "version": "3.3",
-   "url": "https://raw.githubusercontent.com/Proyectossole/SistemaFiltrado/main/fwV2.bin"
+   "url": "https://raw.githubusercontent.com/Proyectossole/SistemaFiltrado/main/fw.bin"
 }
