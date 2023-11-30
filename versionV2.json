@@ -1,5 +1,5 @@
 {
    "type": "esp32SfiltroV2",
-   "version": "1.9",
+   "version": "2.0",
    "url": "https://raw.githubusercontent.com/Proyectossole/SistemaFiltrado/main/sistema_filtradoV2.ino.bin"
 }
