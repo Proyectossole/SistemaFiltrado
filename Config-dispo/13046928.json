@@ -1,8 +1,8 @@
 {
-    "VersionConfig": 1,
+    "VersionConfig": 2,
     "Placa": "SF2.2.001",
     "IdP": "6648e2439fd56f8aa27927a5b468a049",
     "Tpulido": 10,
     "Toff": 4,
-    "ReiniFil": 0
+    "ReiniFil": 1
 }
